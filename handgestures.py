@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 13 16:55:45 2018
 
-@author: RAKSHIT CHOUDHARY
+@author: PIYUSH BHOI
 """
 
 import cv2
